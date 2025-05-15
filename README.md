@@ -1,3 +1,5 @@
+# this is VERY VERY outdated and no longer maintained, if you use this expect it to not work
+
 # Roblox2Bopimo
 
 **Roblox2Bopimo** is a tool that helps convert Roblox `.rbxlx` files into a format that works with Bopimo. It takes Roblox levels and turns them into BOPJSON, so you can use them in Bopimo.
