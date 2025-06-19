@@ -1,4 +1,4 @@
-# this is VERY VERY outdated and no longer maintained, if you use this expect it to not work
+# this was made all the way back when bopimo first released, bopjson has changed a lot since then and hence this project does not work.
 
 # Roblox2Bopimo
 
